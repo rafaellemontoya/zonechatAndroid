@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ZoneChat</string>
+    <string name="login_title">Inicia sesión para continuar</string>
+    <string name="welcome_title">¡Hola!</string>
+    <string name="btn_login">Inicia sesión</string>
+    <string name="no_account">¿No tienes cuenta? Crea una cuenta</string>
+    <string name="title_activity_admin">Admin</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>

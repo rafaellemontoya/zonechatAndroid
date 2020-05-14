@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "93102819329",
+    "firebase_url": "https://zonechat-5dbf8.firebaseio.com",
+    "project_id": "zonechat-5dbf8",
+    "storage_bucket": "zonechat-5dbf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93102819329:android:cf83c0a2d794525eb39800",
+        "android_client_info": {
+          "package_name": "com.myt.zonechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93102819329-i8u03vbttdeb5l2v0ppvm99khgkav34n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC7YBI75mbRZUYuY6T_62ot1yGXDHRPW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93102819329-i8u03vbttdeb5l2v0ppvm99khgkav34n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "93102819329-hd6o0ilvq1o74hip3agen2iphmapv1hn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mytdesarrollo.PruebasZone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
